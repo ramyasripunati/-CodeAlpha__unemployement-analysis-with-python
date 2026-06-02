@@ -1,0 +1,9 @@
+# -CodeAlpha__unemployement-analysis-with-python
+import pandas as pd
+import matplotlib.pyplot as plt
+df = pd.read_csv('Unemployment.csv')
+print(df.head())
+print(df.isnull().sum())
+df.groupby('Date')['Estimated Unemployment Rate (%)'].mean().plot()
+plt.title('Unemployment Rate Trend')
+plt.show(
