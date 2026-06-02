@@ -11,7 +11,7 @@ Methodology
 3. Explore unemployment rates across time periods.
 4. Visualize trends using charts.
 5. Analyze COVID-19 impact and seasonal patterns
-6 Key Findings
+Key findings
 • Unemployment rates increased significantly during the COVID-19 period.
 • Certain regions recorded higher unemployment than others.
 • Seasonal variations were observed in employment trends.
